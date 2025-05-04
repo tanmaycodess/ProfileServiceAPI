@@ -8,7 +8,7 @@ A microservice that handles authenticated user profile operations including prof
 
 - **Node.js** with **Express**
 - **MongoDB** with **Mongoose**
-- **JWT** for authentication
+- **passport** for authentication
 - **Multer** for file upload
 - **Cloudinary** or **AWS S3** for media storage
 - **dotenv** for environment configuration
